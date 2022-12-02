@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T11:18:29.665Z" agent="5.0 (Macintosh)" etag="y1-ZIcWfBkC1C9_oHxAr" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T11:26:24.399Z" agent="5.0 (Macintosh)" etag="2I2iqxDIIidwvtWjtMBC" version="20.5.3" type="github">
   <diagram id="q0DILytYg0iy6yfAkVPH" name="Page-1">
     <mxGraphModel dx="925" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,14 +7,6 @@
         <mxCell id="Z-nDP4wHouM15RZJmkO2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.312;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Z-nDP4wHouM15RZJmkO2-1" target="Z-nDP4wHouM15RZJmkO2-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z-nDP4wHouM15RZJmkO2-5" value="Fait par" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Z-nDP4wHouM15RZJmkO2-1" target="Z-nDP4wHouM15RZJmkO2-4" edge="1">
-          <mxGeometry x="-0.3525" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="476" y="233" />
-            </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z-nDP4wHouM15RZJmkO2-8" value="Fait pour" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;verticalAlign=middle;endArrow=classic;endFill=1;" parent="1" source="Z-nDP4wHouM15RZJmkO2-1" target="Z-nDP4wHouM15RZJmkO2-7" edge="1">
@@ -243,9 +235,6 @@
         </mxCell>
         <mxCell id="F8eL2Q75ojKpojj5MNbm-43" value="1..n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="383" y="210" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="F8eL2Q75ojKpojj5MNbm-44" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="473" y="171" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F8eL2Q75ojKpojj5MNbm-45" value="1..n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="564" y="208" width="40" height="30" as="geometry" />
