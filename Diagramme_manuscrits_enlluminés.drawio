@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-01T16:17:35.336Z" agent="5.0 (Macintosh)" etag="WQnZf2Rk_I3z181nNmDp" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-01T16:20:39.133Z" agent="5.0 (Macintosh)" etag="FM20vqAkRngPXPqOPihp" version="20.6.0" type="github">
   <diagram id="q0DILytYg0iy6yfAkVPH" name="Page-1">
     <mxGraphModel dx="875" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,14 +53,14 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z-nDP4wHouM15RZJmkO2-4" value="&lt;div&gt;Organisation&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;--&amp;gt; name&lt;br&gt;--&amp;gt; definition&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="76" y="330" width="120" height="80" as="geometry" />
+        <mxCell id="Z-nDP4wHouM15RZJmkO2-4" value="&lt;div&gt;Organisation&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;pk&lt;br&gt;name&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;fk geographical place&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="76" y="330" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Z-nDP4wHouM15RZJmkO2-10" value="&lt;div&gt;Miniature&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;--&amp;gt; legend&lt;br&gt;--&amp;gt; description&lt;br&gt;--&amp;gt; feminine presence&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Z-nDP4wHouM15RZJmkO2-10" value="&lt;div&gt;Miniature&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;pk&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;legend&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;women presence&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;folio&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.9999999999999" y="461" width="141.82" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Z-nDP4wHouM15RZJmkO2-14" value="&lt;div align=&quot;center&quot;&gt;Text&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;--&amp;gt; language&lt;br&gt;--&amp;gt; origine&lt;br&gt;--&amp;gt; date&lt;br&gt;--&amp;gt; theme(s)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="640" y="460" width="130" height="110" as="geometry" />
+        <mxCell id="Z-nDP4wHouM15RZJmkO2-14" value="&lt;div align=&quot;center&quot;&gt;Text&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;pk&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;language&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;type of story&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="640" y="460" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="F8eL2Q75ojKpojj5MNbm-3" value="&lt;div&gt;Geographical place&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;pk&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;place&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="490" width="116" height="80" as="geometry" />
@@ -81,7 +81,7 @@
             <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4ma81mb0YaSDIXV27W-R-1" value="&lt;div&gt;Person&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;--&amp;gt; name&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;--&amp;gt; gender&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;--&amp;gt; origin&lt;br&gt;--&amp;gt; birth date&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;--&amp;gt; death date&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4ma81mb0YaSDIXV27W-R-1" value="&lt;div&gt;Person&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;pk&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;name&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;gender&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;occupation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;fk organisation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4ma81mb0YaSDIXV27W-R-4" value="&lt;div&gt;is in&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;hr&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;fk miniature&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;fk manuscript&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
           <mxGeometry x="491.82" y="178" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ma81mb0YaSDIXV27W-R-37" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="404" width="30" height="30" as="geometry" />
+          <mxGeometry x="130" y="415" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ma81mb0YaSDIXV27W-R-41" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="194" y="215" width="30" height="30" as="geometry" />
